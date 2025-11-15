@@ -5,7 +5,7 @@ $ git commit -m "add index"
  1 file changed, 10 insertions(+)
  create mode 100644 index.html
  
-$ git remote add origin (https://margarethaamys.github.io/MargarethaAmy.github.io/)
+$ git remote add origin https://margarethaamys.github.io/MargarethaAmy.github.io/
 
 $ git push -u origin master
 Counting objects: 3, done.
